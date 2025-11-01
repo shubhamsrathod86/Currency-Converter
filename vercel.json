@@ -1,0 +1,5 @@
+{
+    "reweite":[
+        { "source": "/old-path", "destination": "/new-path" }
+    ]
+}
