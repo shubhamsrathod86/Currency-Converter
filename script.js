@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"; 
 const from = document.getElementById('from');
 const to = document.getElementById('to');
 const amount = document.getElementById('amount');
